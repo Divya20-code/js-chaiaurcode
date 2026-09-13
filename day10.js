@@ -1,0 +1,2 @@
+baiscs
+heap and stack 
